@@ -58,7 +58,7 @@ The YouTube video features a **Ghibli-style illustrated character** in front of 
 ---
 
 📽️ YouTube Walkthrough  
-🎥 [Watch the Full Dashboard Walkthrough](https://your-youtube-link-here)  
+🎥 https://youtu.be/LybwfLsCH8U
 👉 Includes storytelling, insights, and design breakdown  
 
 ---
@@ -78,7 +78,9 @@ Huge thanks to **Maven Analytics** for hosting such insightful challenges that p
 
 🔗 Connect With Me  
 Feel free to explore more of my projects and reach out:  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [YouTube](https://www.youtube.com/yourchannel)  
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/narendrasingh1402))  
+- [YouTube]([https://www.youtube.com/yourchannel](https://www.youtube.com/@Analyst_Hive))  
+- [Portfolio](https://narendra1402.github.io/)
+
+
 
