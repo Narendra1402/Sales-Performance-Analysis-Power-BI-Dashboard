@@ -1,14 +1,14 @@
 # **🚀 Business Dashboard |Maven Analytics |Sales CRM Data Challenge**
 
 
-[Explanation video](https://www.youtube.com/watch?v=LybwfLsCH8U)
+[🎥Explanation video](https://www.youtube.com/watch?v=LybwfLsCH8U)
 
 
 ## Problem Overview
-This Power BI dashboard project was designed for AtliQ, a global company experiencing rapid growth. As their operations scaled, so did the complexity of their data, leading to heavy reliance on Excel, which hindered efficiency and decision-making. This project resolves these issues by transforming AtliQ’s reporting ecosystem into a dynamic, real-time analytical solution using Power BI.
+This Power BI dashboard project was designed for Company, a global company experiencing rapid growth. As their operations scaled, so did the complexity of their data, leading to heavy reliance on Excel, which hindered efficiency and decision-making. This project resolves these issues by transforming Company’s reporting ecosystem into a dynamic, real-time analytical solution using Power BI.
 
 ## Problem Statement
-AtliQ faced operational bottlenecks due to fragmented data stored in spreadsheets. The lack of real-time analytics led to missed business opportunities, especially in fast-moving markets. Leadership had no unified visibility across departments like Sales, Market Reach, and Account Performance. Thus, a centralized, scalable reporting solution was necessary to unlock actionable insights.
+Company faced operational bottlenecks due to fragmented data stored in spreadsheets. The lack of real-time analytics led to missed business opportunities, especially in fast-moving markets. Leadership had no unified visibility across departments like Sales, Market Reach, and Account Performance. Thus, a centralized, scalable reporting solution was necessary to unlock actionable insights.
 
 ## Objectives
 Replace Excel-based reports with an interactive Power BI dashboard.
@@ -47,7 +47,7 @@ Active opportunities by type (Engaging, Lost, Prospecting).
 <img width="882" height="491" alt="Capture4" src="https://github.com/user-attachments/assets/a27aa247-a9fd-41a9-97fa-350f34ab4a0a" />
 
 Detailed breakdown of opportunities by individual accounts.
-Map visualization shows AtliQ’s international footprint.
+Map visualization shows Company’s international footprint.
 Sector-account level KPIs: Success Rate, QOQ Sales, and Cycle Time.
 Top Revenue-Contributing Accounts: Betasoln (GTX Pro - $43K), Bubba Gump, Hatfan.
 
@@ -98,4 +98,14 @@ Snowflake Schema – for optimized querying and report performance.
 DAX – for dynamic calculations and custom metrics.
 
 ## Conclusion
-This project helped AtliQ modernize its data infrastructure, providing instant visibility into performance across accounts, products, sectors, and sales teams. The dashboards empower decision-makers with actionable insights that were previously buried in Excel files. By leveraging Power BI’s robust analytics features, the company can now make faster, more informed decisions and continue its path of global expansion with data as its backbone.
+This project helped Company modernize its data infrastructure, providing instant visibility into performance across accounts, products, sectors, and sales teams. The dashboards empower decision-makers with actionable insights that were previously buried in Excel files. By leveraging Power BI’s robust analytics features, the company can now make faster, more informed decisions and continue its path of global expansion with data as its backbone.
+
+## 🙌 Acknowledgments  
+Huge thanks to **Maven Analytics** for hosting such insightful challenges that push the boundaries of learning and creativity.  
+
+## 🔗 Connect With Me  
+Feel free to explore more of my projects and reach out:  
+- [LinkedIn](https://www.linkedin.com/in/narendrasingh1402)
+- [YouTube](https://www.youtube.com/@Analyst_Hive)  
+- [Portfolio](https://narendra1402.github.io/)
+
